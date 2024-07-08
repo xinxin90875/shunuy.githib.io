@@ -1,0 +1,2 @@
+### 众所周知，这是一个2d动作类游戏，即ACT(Action Game)动作游戏，以动作操作为主的游戏，同时也属于RG(Roguelike)角色永久死亡，死亡后只能从头开始，游戏过程中没有保存点死亡之后地图和游戏内物品不会改变.
+As is well known, this is a 2D action game, also known as ACT (Action Game) action game, which mainly focuses on action operations. At the same time, it belongs to the RG (Roguelike) character who permanently dies. After death, they can only start from scratch, and there are no save points during the game. After death, the map and in-game items will not change.
